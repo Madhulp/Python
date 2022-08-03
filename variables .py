@@ -27,6 +27,7 @@ print(avg)
 
 
 
+
 a=input("square of a number:")
 a=a*a
 a=int(a)
